@@ -15,6 +15,7 @@ colors = [
     "#F0E68C",  
 ]
 
+#yeu hung nhat tren doi
 messages = [
     "Loveeee You(Not today)",
     "Bạn là điều tuyệt vời nhất",
