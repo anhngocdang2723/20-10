@@ -2,17 +2,17 @@ import tkinter as tk
 import random
 
 colors = [
-    "#FFB6C1",  # Light Pink
-    "#FF69B4",  # Hot Pink
-    "#FF1493",  # Deep Pink
-    "#DB7093",  # Pale Violet Red
-    "#C71585",  # Medium Violet Red
-    "#9370DB",  # Medium Purple
-    "#8A2BE2",  # Blue Violet
-    "#DA70D6",  # Orchid
-    "#DDA0DD",  # Plum
-    "#E6E6FA",  # Lavender
-    "#F0E68C",  # Khaki
+    "#FFB6C1",  
+    "#FF69B4",  
+    "#FF1493",  
+    "#DB7093",  
+    "#C71585",  
+    "#9370DB",  
+    "#8A2BE2",  
+    "#DA70D6",  
+    "#DDA0DD",  
+    "#E6E6FA",  
+    "#F0E68C",  
 ]
 
 messages = [
